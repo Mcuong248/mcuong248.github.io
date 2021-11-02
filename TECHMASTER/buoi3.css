@@ -1,54 +1,51 @@
-*{
-    margin: initial;
+* {
+  margin: initial;
 }
 
-#job-application{
-    background-image: url(https://softbuzz.net/wp-content/uploads/2019/10/background-de-thuong-softbuzz-5-1024x768.jpeg);
-    width: 100%;
-    display: flex;
-    justify-content: center;
+#job-application {
+  background-image: url(https://softbuzz.net/wp-content/uploads/2019/10/background-de-thuong-softbuzz-5-1024x768.jpeg);
+  width: 100%;
+  display: flex;
+  justify-content: center;
 }
 
-.slogan{
-    font-size: 20px;
-    text-align: center;
-    position: relative;
-    margin-right: 200px;
-}
-    
-.personal-information{
-    font-size: 18px;
-    margin-left: 50px;
-    margin-top: 50px;
+.slogan {
+  font-size: 20px;
+  text-align: center;
+  position: relative;
+  margin-right: 200px;
 }
 
-.content{
-    font-size: 18px;
-    max-width: 1000px;
-    margin-left: 50px;
-    margin-top: 15px;
+.personal-information {
+  font-size: 18px;
+  margin-left: 50px;
+  margin-top: 50px;
 }
 
-.user{
-    width: 150px;
-    float: left;
-    top: 0;
-    left: 0;
-    margin-left: 50px;
-    margin-top: 50px;
+.content {
+  font-size: 18px;
+  max-width: 1000px;
+  margin-left: 50px;
+  margin-top: 15px;
 }
 
-.dear{
-    font-size: 18px;
-    margin-left: 210px;
+.user {
+  width: 150px;
+  float: left;
+  top: 0;
+  left: 0;
+  margin-left: 50px;
+  margin-top: 50px;
 }
 
-.sign{
-    font-size: 18px;
-    text-align: center;
-    display: flex;
-    justify-content: flex-end;
+.dear {
+  font-size: 18px;
+  margin-left: 210px;
 }
 
-
-
+.sign {
+  font-size: 18px;
+  text-align: center;
+  display: flex;
+  justify-content: flex-end;
+}
