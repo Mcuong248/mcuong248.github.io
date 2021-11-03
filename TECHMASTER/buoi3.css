@@ -3,7 +3,7 @@
 }
 
 #job-application {
-  background-image: url(https://softbuzz.net/wp-content/uploads/2019/10/background-de-thuong-softbuzz-5-1024x768.jpeg);
+  background-image: url(https://tapchihay.com/wp-content/uploads/2018/12/dowload-mien-phi-101-hinh-nen-powerpoint-cung-background-ep-chuyen-nghiep-411.jpg);
   width: 100%;
   display: flex;
   justify-content: center;
@@ -13,19 +13,19 @@
   font-size: 20px;
   text-align: center;
   position: relative;
-  margin-right: 200px;
+  margin-top: 20px;
 }
 
 .personal-information {
   font-size: 18px;
-  margin-left: 50px;
+  margin-right: 50px;
   margin-top: 50px;
 }
 
 .content {
   font-size: 18px;
   max-width: 1000px;
-  margin-left: 50px;
+  margin-right: 50px;
   margin-top: 15px;
 }
 
@@ -34,13 +34,12 @@
   float: left;
   top: 0;
   left: 0;
-  margin-left: 50px;
   margin-top: 50px;
 }
 
 .dear {
   font-size: 18px;
-  margin-left: 210px;
+  margin-left: 200px;
 }
 
 .sign {
@@ -48,4 +47,9 @@
   text-align: center;
   display: flex;
   justify-content: flex-end;
+  padding: 34px 0;
+}
+
+h1{
+  margin: 25px 0;
 }
