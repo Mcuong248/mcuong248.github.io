@@ -55,12 +55,12 @@ body{
     width: 150px;
     height: 150px;
     object-fit: cover;
+    transition: 0.3s;
 }
 
 .img-item >img:hover{ 
     cursor: pointer;
-    border-radius: 8px;
-    transform: rotate(5deg);
+    transform: scale(1.2);
 }
 
 
