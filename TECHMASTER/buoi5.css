@@ -54,7 +54,7 @@ body{
     border: 10px solid white;
     width: 150px;
     height: 150px;
-    object-fit: cover;
+    overflow: hidden;
     transition: 0.3s;
 }
 
